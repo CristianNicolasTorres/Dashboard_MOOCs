@@ -1,5 +1,5 @@
 # Dashboard_MOOCs
-![Descripción de la imagen](Dashboard_MOOCs\wordcloudsuccs.png)
+![Wordcloud]("Dashboard_MOOCs\wordcloudsuccs.png")
 Descripción del proyecto
 El proyecto se centra en el análisis exploratorio de datos (EDA) y la creación de un dashboard interactivo para visualizar y analizar los datos. El objetivo principal es obtener información significativa y conclusiones a partir de los datos disponibles.
 
